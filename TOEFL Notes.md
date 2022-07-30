@@ -164,7 +164,7 @@ Optional words: **It is partly deemed that** wealthy individuals are obliged to 
 
 
 
-**Example for Counterargument Paragraph: **
+**Example for Counterargument Paragraph:**
 
 1. Counterargument
 
@@ -184,7 +184,7 @@ Optional words: **It is partly deemed that** wealthy individuals are obliged to 
 
    
 
-**Example for Couclusion: **
+**Example for Couclusion:**
 
 **In conclusion, given the numerous benefits of** studying abroad, colleges and universities should require that their students take advantage of this opportunity. 
 
